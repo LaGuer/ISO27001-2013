@@ -4,7 +4,7 @@
 
 > ***Note***: _If you or anyone on your team have **any questions**,
 please raise them on GitHub_: <br />
-https://github.com/dwyl/ISO-27001-2013-information-technology-security/issues
+https://github.com/LaGuer/ISO-27001-2013-information-technology-security/issues
 
 ## _Why_?
 
@@ -16,7 +16,7 @@ if you just need some plain-english background, tips & tools for your team!
 
 #### Our _purpose_ for creating `this` repo is to:
 
-+ ensure that both _we_ (_the DWYL team_) and our _stakeholders_
++ ensure that both _we_ (_the AMI team_) and our _stakeholders_
 (_people who use our app(s) for their business-critical or personal information_)
 have the _confidence_ in our IT systems/process.
 + have a _checklist_ we can follow in the case of
@@ -60,14 +60,14 @@ You may be reading this thinking _what_ qualifies DWYL to prepare our own
 Information Security Processes/Procedures...?
 
 While we do not
-([_yet!_](https://github.com/dwyl/ISO-27001-2013-information-technology-security/issues/17))
+([_yet!_](https://github.com/dwyl/ISO27001-2013/issues/))
 have a _person_ "_on staff_" who is "_certified_" to "_audit_" our controls/processes,
 we do have a [_co-founder_](https://www.linkedin.com/in/nelsonic)
 who put in the time/effort to read all the books/standards and work as an
 "Enterprise Risk Consultant" for long enough to know _exactly_ how to implement
 the controls/processes. "_All_" we need to be "_certified_" is to
 submit an application to the ISO organization.
-see: https://github.com/dwyl/ISO-27001-2013-information-technology-security/issues/17
+see: https://github.com/LaGuer/ISO27001-2013/issues/
 
 
 
@@ -85,7 +85,7 @@ e.g: https://trofisecurity.com/assets/img/iso27001-2013.pdf (_the full PDF_)
 
 Once you _read_ through the PDF you _should_ be able to understand
 all the controls we have implemented:
-[ISO-27001-2013-controls.md](https://github.com/dwyl/ISO-27001-2013-information-technology-security/blob/master/ISO-27001-2013-controls.md)
+[ISO-27001-2013-controls.md](https://github.com/LaGuer/ISO27001-2013/blob/master/ISO-27001-2013-controls.md)
 
 > ***Note***: _As always, If you or anyone on your team have **any questions**, <br />
 please raise them on GitHub (we'd be delighted to help clarify anything!)_: <br />
